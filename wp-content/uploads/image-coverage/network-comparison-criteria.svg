@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="808" viewBox="0 0 720 808" role="img" aria-labelledby="title desc">
+<title id="title">Compare the same seven checks</title>
+<desc id="desc">A consistent framework for reviewing networks</desc>
+<rect width="720" height="808" rx="24" fill="#f6f3eb"/>
+<rect x="32" y="32" width="7" height="66" rx="3" fill="#b68b47"/>
+<text x="56" y="61" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#16352f">Compare the same seven checks</text>
+<text x="56" y="95" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#425b55">A consistent framework for reviewing networks</text>
+<rect x="32" y="128" width="656" height="70" rx="16" fill="#ffffff" stroke="#d6ded7"/>
+<circle cx="64" cy="162" r="14" fill="#266455"/>
+<path d="M58 162l4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="172" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#16352f">Advisor screening</text>
+<rect x="32" y="218" width="656" height="70" rx="16" fill="#ffffff" stroke="#d6ded7"/>
+<circle cx="64" cy="252" r="14" fill="#266455"/>
+<path d="M58 252l4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="262" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#16352f">Specialties and reader choice</text>
+<rect x="32" y="308" width="656" height="70" rx="16" fill="#ffffff" stroke="#d6ded7"/>
+<circle cx="64" cy="342" r="14" fill="#266455"/>
+<path d="M58 342l4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="352" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#16352f">Pricing and value</text>
+<rect x="32" y="398" width="656" height="70" rx="16" fill="#ffffff" stroke="#d6ded7"/>
+<circle cx="64" cy="432" r="14" fill="#266455"/>
+<path d="M58 432l4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="442" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#16352f">Customer support</text>
+<rect x="32" y="488" width="656" height="70" rx="16" fill="#ffffff" stroke="#d6ded7"/>
+<circle cx="64" cy="522" r="14" fill="#266455"/>
+<path d="M58 522l4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="532" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#16352f">Ease of use</text>
+<rect x="32" y="578" width="656" height="70" rx="16" fill="#ffffff" stroke="#d6ded7"/>
+<circle cx="64" cy="612" r="14" fill="#266455"/>
+<path d="M58 612l4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="622" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#16352f">Reputation and reviews</text>
+<rect x="32" y="668" width="656" height="70" rx="16" fill="#ffffff" stroke="#d6ded7"/>
+<circle cx="64" cy="702" r="14" fill="#266455"/>
+<path d="M58 702l4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="712" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#16352f">Guarantee terms</text>
+<text x="36" y="784" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#61746c">PSYCHIC NETWORK REVIEWS</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="535" viewBox="0 0 720 535" role="img" aria-labelledby="title desc">
+<title id="title">Choose a format that fits you</title>
+<desc id="desc">Check availability on each advisor&#x27;s current profile</desc>
+<rect width="720" height="535" rx="24" fill="#f6f3eb"/>
+<rect x="32" y="32" width="7" height="66" rx="3" fill="#b68b47"/>
+<text x="56" y="61" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#16352f">Choose a format that fits you</text>
+<text x="56" y="95" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#425b55">Check availability on each advisor&#x27;s current profile</text>
+<rect x="32" y="128" width="656" height="101" rx="16" fill="#ffffff" stroke="#d6ded7"/>
+<circle cx="64" cy="162" r="14" fill="#266455"/>
+<path d="M58 162l4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="172" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#16352f">Prefer a written conversation?</text>
+<text x="92" y="207" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#425b55">Look for live chat and transcript options</text>
+<rect x="32" y="249" width="656" height="101" rx="16" fill="#ffffff" stroke="#d6ded7"/>
+<circle cx="64" cy="283" r="14" fill="#266455"/>
+<path d="M58 283l4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="293" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#16352f">Prefer speaking in real time?</text>
+<text x="92" y="328" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#425b55">Check phone access and scheduling</text>
+<rect x="32" y="370" width="656" height="101" rx="16" fill="#ffffff" stroke="#d6ded7"/>
+<circle cx="64" cy="404" r="14" fill="#266455"/>
+<path d="M58 404l4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="414" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#16352f">Prefer an answer you can read later?</text>
+<text x="92" y="449" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#425b55">Check written reply options and timing</text>
+<text x="36" y="511" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#61746c">PSYCHIC NETWORK REVIEWS</text>
+</svg>

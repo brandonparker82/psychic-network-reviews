@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="628" viewBox="0 0 720 628" role="img" aria-labelledby="title desc">
+<title id="title">Before, during and after a reading</title>
+<desc id="desc">Keep your question, time and budget in view</desc>
+<rect width="720" height="628" rx="24" fill="#f6f3eb"/>
+<rect x="32" y="32" width="7" height="66" rx="3" fill="#b68b47"/>
+<text x="56" y="61" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#16352f">Before, during and after a reading</text>
+<text x="56" y="95" font-family="Arial, sans-serif" font-size="19" font-weight="400" fill="#425b55">Keep your question, time and budget in view</text>
+<rect x="32" y="128" width="656" height="132" rx="16" fill="#ffffff" stroke="#d6ded7"/>
+<circle cx="64" cy="162" r="14" fill="#266455"/>
+<path d="M58 162l4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="172" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#16352f">Before</text>
+<text x="92" y="207" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#425b55">Match the specialty to your question</text>
+<text x="92" y="238" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#425b55">Read profiles and set a spending limit</text>
+<rect x="32" y="280" width="656" height="132" rx="16" fill="#ffffff" stroke="#d6ded7"/>
+<circle cx="64" cy="314" r="14" fill="#266455"/>
+<path d="M58 314l4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="324" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#16352f">During</text>
+<text x="92" y="359" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#425b55">Write down specific claims</text>
+<text x="92" y="390" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#425b55">End the session if you feel pressured</text>
+<rect x="32" y="432" width="656" height="132" rx="16" fill="#ffffff" stroke="#d6ded7"/>
+<circle cx="64" cy="466" r="14" fill="#266455"/>
+<path d="M58 466l4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="92" y="476" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#16352f">After</text>
+<text x="92" y="511" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#425b55">Review your notes against what happened</text>
+<text x="92" y="542" font-family="Arial, sans-serif" font-size="24" font-weight="400" fill="#425b55">Check support terms if you need help</text>
+<text x="36" y="604" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#61746c">PSYCHIC NETWORK REVIEWS</text>
+</svg>
